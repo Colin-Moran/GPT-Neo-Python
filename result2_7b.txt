@@ -1,0 +1,26 @@
+Default:
+a very hot topic in the world of 
+technology.
+It is a very hot topic in the world 
+of technology.
+It is a very hot topic in the world 
+of technology.
+It is a very hot topic
+Greedy:
+a very hot topic in the world of 
+Beam:          
+Generic Sampling:
+worried that it will lead to 
+Top-k Sampling:
+already here, it's already happening,
+Top-p Sampling:
+being applied to a wide variety of 
+
+Bad Words:
+a very hot topic in the world of 
+technology.
+It is a very hot topic in the world 
+of technology.
+It is a very hot topic in the world 
+of technology.
+It is a very hot topic
